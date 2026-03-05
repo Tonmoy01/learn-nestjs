@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh auth status)",
+      "Bash(gh repo create learn-nest --public --description \"Learning NestJS - Building REST APIs with TypeScript\")"
+    ]
+  }
+}
